@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies)
 - [Application Example](#examples)
-- [Heroku Link](#links)
+- [Heroku Link](#heroku)
 - [Contributors Contact Information](#contact)
 
 ## Description
@@ -22,8 +22,8 @@ CodeBusters is a full-stack web application that allows developers of all techni
 - cd into new directory
 - download JSON packages by entering `npm i`
 - create a dotenv file
-- enter `npm start` to begin the server
-- run application on localhost:5000 in the browser
+- enter `npm run dev` to begin the server
+- run application on localhost:5000 in the browser or use the heroku link
 
 ## Usage
 
@@ -55,7 +55,7 @@ CodeBusters GIF:
 
 <img src="./public/img/Project2 GIF.gif">
 
-## Links
+## Heroku
 
 [https://coding-gig-gigspython.herokuapp.com/](https://coding-gig-gigspython.herokuapp.com/)
 
