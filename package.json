@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Corey96/python-gig.git"
+    "url": "git+https://github.com/invogue01/codeBusters-gig.git"
   },
   "author": "Andrea, Corey, Nadira, Saniya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Corey96/python-gig/issues"
+    "url": "https://github.com/invogue01/codeBusters-gig/issues"
   },
-  "homepage": "https://github.com/Corey96/python-gig#readme",
+  "homepage": "https://github.com/invogue01/codeBusters-gig#readme",
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.5",
     "bcrypt": "^5.0.1",
