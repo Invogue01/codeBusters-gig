@@ -55,9 +55,9 @@ CodeBusters GIF:
 
 <img src="./public/img/Project2 GIF.gif">
 
-## Heroku
+## Website Demo
 
-[https://coding-gig-gigspython.herokuapp.com/](https://coding-gig-gigspython.herokuapp.com/)
+[https://invogue01.github.io/codeBusters-gig/](https://invogue01.github.io/codeBusters-gig/)
 
 ## Contact
 
